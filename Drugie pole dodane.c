@@ -40,7 +40,17 @@ else
     break;
 case 2:
 
-
+printf("Wprowadz podstawe\n");
+    scanf("%f", &pods);
+    printf("Wprowadz wysokosc\n");
+    scanf("%f", &h);
+    if ((pods>0)&&(h>0))
+    {
+        wynik2 = 0.5*pods*h;
+        printf("wynik=" "%f\n", wynik2);
+    }
+ else
+    printf("liczby ujemne!!!\n");
     break;
 case 3:
     return 0;

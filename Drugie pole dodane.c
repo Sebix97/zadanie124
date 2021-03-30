@@ -82,13 +82,13 @@ float pole_prostokata()
             return wynik;
         }
         else
-        printf("wprowadz cyfry, a nie znaki\n");
+        printf("wprowadz liczby, a nie znaki\n");
         exit (EXIT_FAILURE);
 
     }
     else
 
-   printf("wprowadz cyfry, a nie znaki\n");
+   printf("wprowadz liczby, a nie znaki\n");
     exit (EXIT_FAILURE);
 
 
@@ -123,13 +123,13 @@ float pole_trojkata()
             return wynik;
         }
         else
-        printf("wprowadz cyfry, a nie znaki\n");
+        printf("wprowadz liczby, a nie znaki\n");
         exit (EXIT_FAILURE);
 
     }
     else
 
-    printf("wprowadz cyfry, a nie znaki\n");
+    printf("wprowadz liczby, a nie znaki\n");
     exit (EXIT_FAILURE);
 
 

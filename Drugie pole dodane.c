@@ -103,7 +103,7 @@ float pole_trojkata()
     printf("wprowadz a\n");
     if(scanf("%f", &a) == 1)
     {
-        printf("wprowadz b\n");
+        printf("wprowadz h\n");
         if(scanf("%f", &h) == 1)
         {
 
